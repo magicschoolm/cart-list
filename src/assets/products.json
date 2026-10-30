@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Biryani",
+    "shop": "Anjappar Restaurant",
+    "ftype": "Biryani",
+    "pic": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976",
+    "latest": "yes"
+  },
+  {
+    "id": 2,
+    "name": "Masala Dosa",
+    "shop": "Saravana Bhavan",
+    "ftype": "South Indian",
+    "pic": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976",
+    "latest": "yes"
+  },
+  {
+    "id": 3,
+    "name": "Chicken Burger",
+    "shop": "Burger Hub",
+    "ftype": "Burger",
+    "pic": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
+    "latest": "yes"
+  },
+  {
+    "id": 4,
+    "name": "Margherita Pizza",
+    "shop": "Pizza Corner",
+    "ftype": "Pizza",
+    "pic": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002",
+    "latest": "no"
+  },
+  {
+    "id": 5,
+    "name": "Paneer Butter Masala",
+    "shop": "Spice Garden",
+    "ftype": "North Indian",
+    "pic": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7",
+    "latest": "yes"
+  },
+  {
+    "id": 6,
+    "name": "Veg Fried Rice",
+    "shop": "China Town",
+    "ftype": "Chinese",
+    "pic": "https://images.unsplash.com/photo-1603133872878-684f208fb84b",
+    "latest": "no"
+  },
+  {
+    "id": 7,
+    "name": "Chicken Noodles",
+    "shop": "Wok Express",
+    "ftype": "Chinese",
+    "pic": "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841",
+    "latest": "yes"
+  },
+  {
+    "id": 8,
+    "name": "Veg Meals",
+    "shop": "Amma Mess",
+    "ftype": "South Indian",
+    "pic": "https://images.unsplash.com/photo-1546833999-b9f581a1996d",
+    "latest": "no"
+  },
+  {
+    "id": 9,
+    "name": "Chicken Shawarma",
+    "shop": "Arabian Bites",
+    "ftype": "Arabian",
+    "pic": "https://images.unsplash.com/photo-1529006557810-274b9b2fc783",
+    "latest": "yes"
+  },
+  {
+    "id": 10,
+    "name": "Mutton Biryani",
+    "shop": "Royal Biryani",
+    "ftype": "Biryani",
+    "pic": "https://images.unsplash.com/photo-1589302168068-964664d93dc0",
+    "latest": "yes"
+  },
+  {
+    "id": 11,
+    "name": "Paneer Tikka",
+    "shop": "Tandoori House",
+    "ftype": "Tandoor",
+    "pic": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8",
+    "latest": "no"
+  },
+  {
+    "id": 12,
+    "name": "Chicken Tikka",
+    "shop": "Punjab Grill",
+    "ftype": "Tandoor",
+    "pic": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0",
+    "latest": "yes"
+  },
+  {
+    "id": 13,
+    "name": "Idli Sambar",
+    "shop": "Tamil Food Corner",
+    "ftype": "South Indian",
+    "pic": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc",
+    "latest": "no"
+  },
+  {
+    "id": 14,
+    "name": "Chole Bhature",
+    "shop": "Delhi Darbar",
+    "ftype": "North Indian",
+    "pic": "https://images.unsplash.com/photo-1626132647523-66f5bf380027",
+    "latest": "yes"
+  },
+  {
+    "id": 15,
+    "name": "Fish Curry",
+    "shop": "Coastal Kitchen",
+    "ftype": "Seafood",
+    "pic": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
+    "latest": "no"
+  },
+  {
+    "id": 16,
+    "name": "Chicken Fried Rice",
+    "shop": "Dragon Wok",
+    "ftype": "Chinese",
+    "pic": "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+    "latest": "yes"
+  },
+  {
+    "id": 17,
+    "name": "French Fries",
+    "shop": "Fast Bite",
+    "ftype": "Fast Food",
+    "pic": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877",
+    "latest": "no"
+  },
+  {
+    "id": 18,
+    "name": "Chocolate Cake",
+    "shop": "Sweet Treats",
+    "ftype": "Dessert",
+    "pic": "https://images.unsplash.com/photo-1578985545062-69928b1d9587",
+    "latest": "yes"
+  },
+  {
+    "id": 19,
+    "name": "Mango Lassi",
+    "shop": "Punjabi Lassi House",
+    "ftype": "Beverage",
+    "pic": "https://images.unsplash.com/photo-1577805947697-89e18249d767",
+    "latest": "no"
+  },
+  {
+    "id": 20,
+    "name": "Gulab Jamun",
+    "shop": "Indian Sweets",
+    "ftype": "Dessert",
+    "pic": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
+    "latest": "yes"
+  }
+]
